@@ -1,0 +1,13 @@
+Ejercicio de manipulacion de matrices
+
+E el siguiente programa desarrollamos una matriz de 5*4 la cual llenaremos y haremos opreaciones extendiendo la matriz a una 6*5.
+Opciones:
+1.-Capturar valores
+	1.1: Seleccionas el numero de la fila de la matriz que quieres rellenar.
+2.-Rellenar la matriz aleatoriamente.
+3.-Calcular los promedios de las filas
+4.-Calacular los promedios por columas
+5.-Obtener el promedio final.
+6.-Rellenar la matriz con 0.
+7.-Imprimir la matriz.
+8.-Salir.
